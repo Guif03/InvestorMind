@@ -172,4 +172,4 @@ Critérios de Avaliação:
 2. Clareza: Existe algum termo técnico que ficou sem explicação?
 3. Adequação Financeira: As sugestões de produtos condizem com o prazo das metas mencionadas?
 
-Aponte onde o texto errou (se errou) e reescreva o trecho problemático corrigindo o tom e a precisão técnica.
+Aponte onde o texto errou (se errou) e reescreva o trecho problemático corrigindo o tom e a precisão técnica. 
